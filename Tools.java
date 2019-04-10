@@ -1,4 +1,4 @@
-package uds.Grite;
+package sgriteproject.SGrite;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -14,7 +14,6 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.StringTokenizer;
 
-import javax.swing.plaf.synth.SynthStyleFactory;
 
 public class Tools {
 

@@ -1,4 +1,4 @@
-package uds.Grite;
+package sgriteproject.SGrite;
 
 import java.io.BufferedReader;
 import java.io.File;

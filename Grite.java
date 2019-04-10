@@ -1,6 +1,5 @@
-package uds.Grite;
+package sgriteproject.SGrite;
 
-import java.awt.List;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
